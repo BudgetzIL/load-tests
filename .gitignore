@@ -1,0 +1,5 @@
+# JMeter ignore rules
+jmeter.log
+*.jtl
+*.log
+test-output/
